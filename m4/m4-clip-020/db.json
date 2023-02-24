@@ -6,7 +6,7 @@
       "lastName": "Gupta",
       "sat": false,
       "sun": true,
-      "favorite": false,
+      "favorite": true,
       "bio": "Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. He has built and led developer communities for 12+ years at Sun, Oracle, Red Hat and Couchbase.",
       "company": "Amazon",
       "twitterHandle": "arungupta",
@@ -14,14 +14,13 @@
       "imageUrl": "/images/Speaker-1269.jpg",
       "email": "Arun.Gupta@codecamp.net"
     },
-
     {
       "id": 5996,
       "firstName": "Craig",
       "lastName": "Berntson",
       "sat": true,
       "sun": true,
-      "favorite": true,
+      "favorite": false,
       "bio": "Craig has a passion for community and helping other developers improve their skills. He writes the column \"Software Gardening\" in DotNet Curry Magazine and is the co-author of \"Continuous Integration in .NET\" available from Manning.",
       "company": "HealthEquity",
       "twitterHandle": "craigber",
@@ -63,7 +62,7 @@
       "lastName": "Chuvyrov",
       "sat": true,
       "sun": false,
-      "favorite": false,
+      "favorite": true,
       "bio": "Eugene Chuvyrov is  a Senior Cloud Architect at Microsoft. He works directly with both startups and enterprises to enable their solutions in Microsoft cloud, and to make Azure better as a result of this work with partners.",
       "company": "Microsoft",
       "twitterHandle": "EugeneChuvyrov",
@@ -85,7 +84,6 @@
       "imageUrl": "/images/Speaker-8367.jpg",
       "email": "Gayle Laakmann.McDowell@codecamp.net"
     },
-
     {
       "id": 18805,
       "firstName": "Mickey W.",
